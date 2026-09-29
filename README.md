@@ -1,6 +1,6 @@
+<img width="1264" height="842" alt="Gemini_Generated_Image_9adfbj9adfbj9adf" src="https://github.com/user-attachments/assets/b588f51f-1916-45a5-a81a-d6971bc0a983" />
 <div align="center">
 
-<img src="assets/banner.png" alt="CypherHat — Your Secrets. Your Vault." width="640" />
 
 ### Secure Credential & Secrets Vault
 
